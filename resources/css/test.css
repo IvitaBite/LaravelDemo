@@ -1,0 +1,19 @@
+.codelex-button {
+    margin-top: 20px;
+}
+
+.codelex-button a {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #005D54;
+    border: 2px solid #005D54;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.codelex-button a:hover {
+    background-color: #ffffff;
+    color: #005D54;
+}
